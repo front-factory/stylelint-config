@@ -1,5 +1,5 @@
 {
-    "name": "stylelint-config",
+    "name": "@front-factory/stylelint-config",
     "version": "0.0.0",
     "description": "The Front Factory Stylelint Config.",
     "type": "module",
