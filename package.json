@@ -11,6 +11,7 @@
     "engines": {
         "node": ">=20.0.0"
     },
+    "exports": "./index.js",
     "devDependencies": {
         "@commitlint/cli": "^19.6.0",
         "@commitlint/config-conventional": "^19.6.0",
@@ -30,7 +31,6 @@
         "conventional-changelog-conventionalcommits": ">= 8.0.0"
     },
     "keywords": [
-        "lint",
         "stylelint",
         "front-end"
     ],
