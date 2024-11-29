@@ -29,6 +29,11 @@
     "overrides": {
         "conventional-changelog-conventionalcommits": ">= 8.0.0"
     },
+    "keywords": [
+        "lint",
+        "stylelint",
+        "front-end"
+    ],
     "license": "MIT",
     "homepage": "https://github.com/front-factory/stylelint-config",
     "bugs": {
