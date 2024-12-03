@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/front-factory/stylelint-config/compare/v1.1.0...v1.2.0) (2024-12-03)
+
+### Features
+
+* **rules:** add `alpha-value-notation` ([0460591](https://github.com/front-factory/stylelint-config/commit/0460591d917aae2be43a97cc56f27f9e6bc653b5))
+* **rules:** add `block-no-empty` ([0aaeaf2](https://github.com/front-factory/stylelint-config/commit/0aaeaf2ac36ff70fdf266ee6bcdb8f15c5cf97ab))
+
 ## [1.1.0](https://github.com/front-factory/stylelint-config/compare/v1.0.1...v1.1.0) (2024-12-03)
 
 ### Features
