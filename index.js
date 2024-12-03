@@ -18,6 +18,7 @@ export default {
                 ]
             }
         ],
+        'block-no-empty': null,
         '@stylistic/string-quotes': 'double',
         '@stylistic/indentation': 4
     }
