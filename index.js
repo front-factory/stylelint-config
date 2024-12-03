@@ -3,6 +3,7 @@ export default {
         '@stylistic/stylelint-plugin'
     ],
     rules: {
+        'alpha-value-notation': 'number',
         'at-rule-empty-line-before': [
             'always',
             {
