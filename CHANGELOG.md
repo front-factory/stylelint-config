@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/front-factory/stylelint-config/compare/v1.2.0...v1.3.0) (2024-12-04)
+
+### Features
+
+* **rules:** add `custom-property-pattern` ([c43e506](https://github.com/front-factory/stylelint-config/commit/c43e506da78d867f4ca27791f5f08d096fd42b76))
+* **rules:** add `selector-class-pattern` ([c675e58](https://github.com/front-factory/stylelint-config/commit/c675e58c4ab463168622fc41bc522ac78ce5dff2))
+* **rules:** add `selector-pseudo-class-no-unknown` ([105f2f5](https://github.com/front-factory/stylelint-config/commit/105f2f5c9b051f5e2840c796ebf63eefda071cfb))
+
 ## [1.2.0](https://github.com/front-factory/stylelint-config/compare/v1.1.0...v1.2.0) (2024-12-03)
 
 ### Features
