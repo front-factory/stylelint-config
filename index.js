@@ -22,6 +22,7 @@ export default {
         'block-no-empty': null,
         'custom-property-pattern': null,
         'selector-class-pattern': null,
+        'selector-pseudo-class-no-unknown': null,
         '@stylistic/string-quotes': 'double',
         '@stylistic/indentation': 4
     }
