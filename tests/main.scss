@@ -1,17 +1,14 @@
 @use "@stylistic";
 @use "@test";
 
-@include test {
+@include test () {
     @debug "test";
 }
-
 $foo: "mg";
 $bar: ();
-
 $_foo: (
     "foo"
 );
-
 $_bar: (
     "foo": "bar",
 );
