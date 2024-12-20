@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.0](https://github.com/front-factory/stylelint-config/compare/v1.3.0...v1.4.0) (2024-12-20)
+
+### Features
+
+* **rules:** add Scss rules ([e69b0a2](https://github.com/front-factory/stylelint-config/commit/e69b0a2a364883f79a673423be8d22a31e55c812))
+
+### Build System
+
+* **deps:** bump to `stylelint` 16.12.0 ([8efe85f](https://github.com/front-factory/stylelint-config/commit/8efe85f3556594f60fe173b3cf52ec4650c6baa8))
+
 ## [1.3.0](https://github.com/front-factory/stylelint-config/compare/v1.2.0...v1.3.0) (2024-12-04)
 
 ### Features
