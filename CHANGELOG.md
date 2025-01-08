@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.0](https://github.com/front-factory/stylelint-config/compare/v1.4.0...v1.5.0) (2025-01-08)
+
+### Features
+
+* **rules:** add `scss/at-function-parentheses-space-before` ([6c20f49](https://github.com/front-factory/stylelint-config/commit/6c20f49ec70c962273bb7a9cde7366cca1f3d089))
+
 ## [1.4.0](https://github.com/front-factory/stylelint-config/compare/v1.3.0...v1.4.0) (2024-12-20)
 
 ### Features
