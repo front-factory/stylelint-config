@@ -37,6 +37,7 @@ export default {
         'scss/at-mixin-argumentless-call-parentheses': 'always',
         'scss/at-mixin-parentheses-space-before': 'never',
         'scss/dollar-variable-pattern': null,
+        'scss/no-global-function-names': true,
         'scss/selector-no-redundant-nesting-selector': true
     }
 };
