@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.0](https://github.com/front-factory/stylelint-config/compare/v1.5.0...v1.6.0) (2025-01-08)
+
+### Features
+
+* **rules:** add `scss/no-global-function-names` ([8ae0ca9](https://github.com/front-factory/stylelint-config/commit/8ae0ca98ac160d3cc01f1e9b5b770c50a4173ae8))
+
 ## [1.5.0](https://github.com/front-factory/stylelint-config/compare/v1.4.0...v1.5.0) (2025-01-08)
 
 ### Features
