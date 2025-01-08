@@ -4,6 +4,15 @@
 @include test () {
     @debug "test";
 }
+
+@function test() {
+    @debug "test";
+}
+
+@mixin test() {
+    @debug "test";
+}
+
 $foo: "mg";
 $bar: ();
 $_foo: (
