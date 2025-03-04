@@ -8,8 +8,7 @@ export default {
     rules: {
         'alpha-value-notation': 'number',
         'at-rule-empty-line-before': [
-            'always',
-            {
+            'always', {
                 'except': [
                     'blockless-after-same-name-blockless',
                     'first-nested'
