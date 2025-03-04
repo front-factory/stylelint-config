@@ -34,7 +34,7 @@ export default {
         'scss/at-function-parentheses-space-before': 'never',
         'scss/at-if-closing-brace-newline-after': 'always-last-in-chain',
         'scss/at-if-closing-brace-space-after': 'always-intermediate',
-        'scss/at-mixin-argumentless-call-parentheses': 'always',
+        'scss/at-mixin-argumentless-call-parentheses': 'never',
         'scss/at-mixin-parentheses-space-before': 'never',
         'scss/dollar-variable-pattern': null,
         'scss/no-global-function-names': true,
