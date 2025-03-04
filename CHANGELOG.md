@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.0](https://github.com/front-factory/stylelint-config/compare/v1.6.0...v1.7.0) (2025-03-04)
+
+### Features
+
+* **rules:** add `color-hex-length` ([8069735](https://github.com/front-factory/stylelint-config/commit/8069735df13c8104018ec38c2480501562a98b1f))
+
+### Bug Fixes
+
+* **rules:** set `scss/at-mixin-argumentless-call-parentheses` to `never` ([e0d7c24](https://github.com/front-factory/stylelint-config/commit/e0d7c24a2d9f69578e3d0e8a2e35472f378c2286))
+
+### Build System
+
+* **deps:** bump to `stylelint` 16.15.0 ([ba8e32b](https://github.com/front-factory/stylelint-config/commit/ba8e32b16febee3c15fc0e7687d1d3794e44792c))
+
 ## [1.6.0](https://github.com/front-factory/stylelint-config/compare/v1.5.0...v1.6.0) (2025-01-08)
 
 ### Features
