@@ -23,6 +23,7 @@ export default {
             }
         ],
         'block-no-empty': null,
+        'color-hex-length': 'short',
         'custom-property-pattern': null,
         'selector-class-pattern': null,
         'selector-pseudo-class-no-unknown': null,
