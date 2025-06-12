@@ -23,6 +23,7 @@ export default {
             }
         ],
         'block-no-empty': null,
+        'color-function-notation': 'modern',
         'color-hex-length': 'short',
         'custom-property-pattern': null,
         'selector-attribute-quotes': 'always',
