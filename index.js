@@ -31,6 +31,7 @@ export default {
         'selector-class-pattern': null,
         'selector-pseudo-class-no-unknown': null,
         'shorthand-property-no-redundant-values': true,
+        '@stylistic/at-rule-semicolon-space-before': 'never',
         '@stylistic/indentation': 4,
         '@stylistic/string-quotes': 'double',
         '@stylistic/max-line-length': null,
