@@ -27,6 +27,7 @@ export default {
         'custom-property-pattern': null,
         'selector-class-pattern': null,
         'selector-pseudo-class-no-unknown': null,
+        'shorthand-property-no-redundant-values': true,
         '@stylistic/string-quotes': 'double',
         '@stylistic/indentation': 4,
         'scss/at-else-closing-brace-newline-after': 'always-last-in-chain',
