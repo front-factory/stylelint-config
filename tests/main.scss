@@ -1,7 +1,7 @@
 @use "@stylistic";
 @use "@test";
 
-@include test () {
+@include test() {
     @debug "test";
 }
 
@@ -24,4 +24,11 @@ $_bar: (
 
 .foo {
     background-color: darkcyan;
+}
+
+[target=_blank] {
+}
+
+a {
+    margin: 1px 1px 1px 1px;
 }

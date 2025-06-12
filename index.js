@@ -25,6 +25,7 @@ export default {
         'block-no-empty': null,
         'color-hex-length': 'short',
         'custom-property-pattern': null,
+        'selector-attribute-quotes': 'always',
         'selector-class-pattern': null,
         'selector-pseudo-class-no-unknown': null,
         'shorthand-property-no-redundant-values': true,
