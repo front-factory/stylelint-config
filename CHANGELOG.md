@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.0](https://github.com/front-factory/stylelint-config/compare/v1.7.0...v1.8.0) (2025-06-12)
+
+### Features
+
+* **rules:** add `@stylistic/at-rule-name-space-after` rule ([c49283f](https://github.com/front-factory/stylelint-config/commit/c49283f3458ad14868e3af2b3c78fdf8068468bc))
+* **rules:** add `@stylistic/at-rule-semicolon-space-before` rule ([f9f41e9](https://github.com/front-factory/stylelint-config/commit/f9f41e9561b595c9b82eae78ac9f22c6694f8368))
+* **rules:** add `@stylistic/max-line-length` rule ([d43d967](https://github.com/front-factory/stylelint-config/commit/d43d9678f2271805f411ee5cc5f62f2688dbf566))
+* **rules:** add `color-function-notation` rule ([96fc3c8](https://github.com/front-factory/stylelint-config/commit/96fc3c8bd92907e756edaa8063f6155ef9d6eabe))
+* **rules:** add `declaration-no-important` rule ([f4de34e](https://github.com/front-factory/stylelint-config/commit/f4de34ea21848d302f19bd65d5141c14f8eae88e))
+* **rules:** add `selector-attribute-quotes` rule ([0839da9](https://github.com/front-factory/stylelint-config/commit/0839da95a6d092246a52ad75d5575329e90671cd))
+* **rules:** add `shorthand-property-no-redundant-values` rule ([21e02bc](https://github.com/front-factory/stylelint-config/commit/21e02bc5b0a50e257762ac706a40ba88aca5a965))
+* **rules:** add new Scss rules ([2593ad6](https://github.com/front-factory/stylelint-config/commit/2593ad6ecc759eb6671fade6ae238bdb57f9bcce))
+
 ## [1.7.0](https://github.com/front-factory/stylelint-config/compare/v1.6.0...v1.7.0) (2025-03-04)
 
 ### Features
