@@ -26,6 +26,7 @@ export default {
         'color-function-notation': 'modern',
         'color-hex-length': 'short',
         'custom-property-pattern': null,
+        'declaration-no-important': true,
         'selector-attribute-quotes': 'always',
         'selector-class-pattern': null,
         'selector-pseudo-class-no-unknown': null,
