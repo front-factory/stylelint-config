@@ -3,6 +3,7 @@ export default {
         '@stylistic/stylelint-plugin'
     ],
     extends: [
+        'stylelint-config-standard',
         'stylelint-config-recommended-scss'
     ],
     rules: {
@@ -36,6 +37,17 @@ export default {
         'scss/at-if-closing-brace-space-after': 'always-intermediate',
         'scss/at-mixin-argumentless-call-parentheses': 'never',
         'scss/at-mixin-parentheses-space-before': 'never',
+        'scss/comment-no-loud': true,
+        'scss/double-slash-comment-empty-line-before': [
+            'always',
+            {
+                'ignore': [
+                    'between-comments',
+                    'stylelint-commands'
+                ]
+            }
+        ],
+        'scss/double-slash-comment-whitespace-inside': 'always',
         'scss/dollar-variable-pattern': null,
         'scss/no-global-function-names': true,
         'scss/selector-no-redundant-nesting-selector': true
