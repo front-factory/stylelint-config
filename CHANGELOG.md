@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.0](https://github.com/front-factory/stylelint-config/compare/v1.8.0...v1.9.0) (2025-06-15)
+
+### Features
+
+* **rule:** update `at-rule-empty-line-before` ([45ac05e](https://github.com/front-factory/stylelint-config/commit/45ac05ee6fd39d7a37dc2b4223570bfe5a3ca9eb))
+
 ## [1.8.0](https://github.com/front-factory/stylelint-config/compare/v1.7.0...v1.8.0) (2025-06-12)
 
 ### Features
