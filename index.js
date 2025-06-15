@@ -9,16 +9,24 @@ export default {
     rules: {
         'alpha-value-notation': 'number',
         'at-rule-empty-line-before': [
-            'always', {
+            'always',
+            {
                 'except': [
+                    'after-same-name',
                     'blockless-after-same-name-blockless',
-                    'first-nested'
+                    'first-nested',
+                    'inside-block'
                 ],
                 'ignore': [
                     'after-comment'
                 ],
                 'ignoreAtRules': [
-                    'else'
+                    'include',
+                    'function',
+                    'mixin',
+                    'if',
+                    'each',
+                    'return'
                 ]
             }
         ],
