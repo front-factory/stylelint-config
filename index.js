@@ -35,6 +35,7 @@ export default {
         'color-hex-length': 'short',
         'custom-property-pattern': null,
         'declaration-no-important': true,
+        'import-notation': 'string',
         'selector-attribute-quotes': 'always',
         'selector-class-pattern': null,
         'selector-pseudo-class-no-unknown': null,
