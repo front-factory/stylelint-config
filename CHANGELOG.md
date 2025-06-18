@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.10.0](https://github.com/front-factory/stylelint-config/compare/v1.9.0...v1.10.0) (2025-06-18)
+
+### Features
+
+* **rule:** update `import-notation` ([10225f8](https://github.com/front-factory/stylelint-config/commit/10225f8661b53c325f191288e5f7b000c521c9ce))
+
 ## [1.9.0](https://github.com/front-factory/stylelint-config/compare/v1.8.0...v1.9.0) (2025-06-15)
 
 ### Features
