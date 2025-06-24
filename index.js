@@ -21,6 +21,7 @@ export default {
                     'after-comment'
                 ],
                 'ignoreAtRules': [
+                    'at-root',
                     'include',
                     'function',
                     'mixin',
