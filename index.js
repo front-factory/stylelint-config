@@ -12,22 +12,15 @@ export default {
             'always',
             {
                 'except': [
-                    'after-same-name',
-                    'blockless-after-same-name-blockless',
-                    'first-nested',
-                    'inside-block'
+                    'first-nested'
                 ],
                 'ignore': [
-                    'after-comment'
+                    'after-comment',
+                    'blockless-after-blockless'
                 ],
                 'ignoreAtRules': [
-                    'at-root',
-                    'include',
-                    'function',
-                    'mixin',
-                    'if',
-                    'each',
-                    'return'
+                    'else',
+                    'use'
                 ]
             }
         ],
