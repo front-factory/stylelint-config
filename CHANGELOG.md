@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.12.0](https://github.com/front-factory/stylelint-config/compare/v1.11.0...v1.12.0) (2025-08-22)
+
+### Features
+
+* **deps:** bump to `stylelint` 16.23.1 ([2852922](https://github.com/front-factory/stylelint-config/commit/285292246afcba4926001376bf328baa2efc2b64))
+* **rules:** update `at-rule-empty-line-before` rule ([97dcd1a](https://github.com/front-factory/stylelint-config/commit/97dcd1ad85cc4707badadd71cd96e001ca351918))
+
 ## [1.11.0](https://github.com/front-factory/stylelint-config/compare/v1.10.0...v1.11.0) (2025-06-24)
 
 ### Features
