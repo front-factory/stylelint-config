@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.12.1](https://github.com/front-factory/stylelint-config/compare/v1.12.0...v1.12.1) (2025-12-17)
+
+### Bug Fixes
+
+* **deps:** bump to `stylelint` 16.26.1 ([aa43b61](https://github.com/front-factory/stylelint-config/commit/aa43b6146dff5ad3aa2e93e84ece576adccf5b8d))
+
 ## [1.12.0](https://github.com/front-factory/stylelint-config/compare/v1.11.0...v1.12.0) (2025-08-22)
 
 ### Features
