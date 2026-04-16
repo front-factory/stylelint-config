@@ -15,7 +15,9 @@ The Front Factory Stylelint Config.
 Add or extend the `stylelint.config.js` file with this configuration:
 
 ```js
-extends: [
-    '@front-factory/stylelint-config'
-]
+export default {
+    extends: [
+        '@front-factory/stylelint-config'
+    ]
+};
 ```
