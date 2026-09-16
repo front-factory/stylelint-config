@@ -37,6 +37,7 @@
         "stylelint",
         "front-end"
     ],
+    "author": "Front Factory",
     "license": "MIT",
     "homepage": "https://github.com/front-factory/stylelint-config",
     "bugs": {
@@ -46,7 +47,11 @@
         "type": "git",
         "url": "git+https://github.com/front-factory/stylelint-config.git"
     },
+    "files": [
+        "index.js"
+    ],
     "publishConfig": {
-        "access": "public"
+        "access": "public",
+        "provenance": true
     }
 }
