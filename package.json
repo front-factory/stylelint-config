@@ -33,9 +33,6 @@
     "peerDependencies": {
         "stylelint": "^16.26.1"
     },
-    "overrides": {
-        "conventional-changelog-conventionalcommits": ">= 8.0.0"
-    },
     "keywords": [
         "stylelint",
         "front-end"
