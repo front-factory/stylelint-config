@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/front-factory/stylelint-config/compare/v1.12.1...v2.0.0) (2026-09-16)
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** requires stylelint ^17.15.0 as a peer dependency (previously ^16.26.1).
+
+### Features
+
+* **deps:** upgrade to stylelint 17 and align config packages ([88261ec](https://github.com/front-factory/stylelint-config/commit/88261ecda876736ce102e9fcf10c3bbf821e6252))
+
+### Bug Fixes
+
+* **deps:** move stylelint to peerDependencies ([fce9b1f](https://github.com/front-factory/stylelint-config/commit/fce9b1f1d52c8e8fce8d598d1f93d748c727fb73))
+* **release:** pin conventional-changelog-writer to v9 ([f7c79a9](https://github.com/front-factory/stylelint-config/commit/f7c79a98d8d46c7ea6152e212dd83dd17e21abe1))
+
 ## [1.12.1](https://github.com/front-factory/stylelint-config/compare/v1.12.0...v1.12.1) (2025-12-17)
 
 ### Bug Fixes

@@ -1,6 +1,6 @@
 {
     "name": "@front-factory/stylelint-config",
-    "version": "1.12.1",
+    "version": "2.0.0",
     "description": "The Front Factory Stylelint Config.",
     "type": "module",
     "scripts": {
