@@ -4,7 +4,12 @@
 
 export default {
     branches: [
-        'main'
+        'main',
+        '+([0-9])?(.{+([0-9]),x}).x',
+        {
+            name: 'beta',
+            prerelease: true
+        }
     ],
     plugins: [
         [
@@ -13,12 +18,13 @@ export default {
                 preset: 'conventionalcommits',
                 releaseRules: [
                     {
-                        type: 'docs',
-                        scope: 'README',
-                        release: 'patch'
+                        type: 'build',
+                        scope: 'deps-dev',
+                        release: false
                     },
                     {
-                        type: 'refactor',
+                        type: 'build',
+                        scope: 'deps',
                         release: 'minor'
                     }
                 ]
@@ -40,31 +46,13 @@ export default {
                         },
                         {
                             type: 'chore',
-                            hidden: true
+                            scope: 'deps',
+                            section: 'Dependencies'
                         },
                         {
                             type: 'build',
-                            section: 'Build System'
-                        },
-                        {
-                            type: 'docs',
-                            hidden: true
-                        },
-                        {
-                            type: 'style',
-                            hidden: true
-                        },
-                        {
-                            type: 'refactor',
-                            section: 'Code Refactoring'
-                        },
-                        {
-                            type: 'perf',
-                            hidden: true
-                        },
-                        {
-                            type: 'test',
-                            hidden: true
+                            scope: 'deps',
+                            section: 'Dependencies'
                         }
                     ]
                 }
